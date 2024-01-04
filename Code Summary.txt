@@ -1,0 +1,45 @@
+Functionality:
+
+This code creates a simple distance-sensing system using two ultrasonic sensors and LEDs.
+It continuously measures distances and activates the corresponding LEDs if objects are detected within a 50 cm range.
+
+Key Parts:
+
+Setup:
+Defines pins for sensors and LEDs.
+Sets pin modes for input and output.
+Initializes serial communication (likely for debugging).
+Loop:
+
+Continuously performs the following actions:
+Activates and measures distance for sensor 1.
+Activates and measures distance for sensor 2.
+Turns on LED 1 if distance1 is less than 50 cm.
+Turns on LED 2 if distance2 is less than 50 cm.
+Turns off both LEDs otherwise.
+Code Structure:
+
+Pin Definitions:
+
+trigPin1, echoPin1: Pins for sensor 1.
+trigPin2, echoPin2: Pins for sensor 2.
+2, 3: Pins for LEDs.
+
+Setup Function:
+Configures pin modes (output for trigger pins, input for echo pins, output for LEDs).
+Starts serial communication (optional).
+Loop Function:
+
+Continuously repeats the following steps:
+Sensor 1:
+Sends a trigger pulse to sensor 1.
+Measures the echo pulse duration from sensor 1.
+Calculates distance1 based on the duration.
+Sensor 2:
+Sends a trigger pulse to sensor 2.
+Measures the echo pulse duration from sensor 2.
+Calculates distance2 based on the duration.
+LED Control:
+Turns on LED 1 if distance1 is less than 50 cm.
+Turns on LED 2 if distance2 is less than 50 cm.
+Turns off both LEDs otherwise.
