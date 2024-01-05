@@ -14,4 +14,4 @@ If proceeded with micro equipments a finished product can be brought into daily 
   A rough working model image 
  <div align="center">
   <div>&nbsp;</div>
-  <img src="Blind Shoe.PNG" width="400"/> 
+  <img src="Image/Hardware setup.jpg" width="400"/> 
