@@ -8,10 +8,10 @@ This project also involves the real time location tracking of the blind people
 Herewith I have attached the block diagram of the overall setup :-
  <div align="center">
   <div>&nbsp;</div>
-  <img src="Blind Shoe.PNG" width="400"/> 
-If proceeded with micro equipments a finished product can be brought into daily use .
+  <img src="Blind Shoe.PNG" width="400"/> If proceeded with micro equipments a finished product can be brought into   daily use .
   
-  A rough working model image 
+ 
+   A rough working model image 
  <div align="center">
   <div>&nbsp;</div>
   <img src="Image/Hardware setup.jpg" width="400"/> 
