@@ -1,4 +1,5 @@
 # Smart Blind shoe
+#   This is a  <h1> tag.  ##  This is a  <h2> tag. ###### This is a <h6> tag.
 This project is all about a new IoT based Smart shoe system for the blind made with the help of an ultrasonic sensor paired to an Arduino UNO board. 
 The Smart shoe design provides a long-term solution for the blind to walk on roads independently. 
 The smart shoe will help the Blind person to reach his destination independently. 
